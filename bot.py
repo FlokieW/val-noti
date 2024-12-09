@@ -1,5 +1,4 @@
 import discord
-from discord.ext import commands
 import os
 from dotenv import load_dotenv
 
@@ -9,7 +8,7 @@ load_dotenv()
 intents = discord.Intents.default()
 intents.members = True  # Enable member intents
 
-bot = commands.Bot(command_prefix='!', intents=intents)
+bot = discord.Client(intents=intents)
 
 # Replace these with your role IDs and corresponding messages
 ROLE_MESSAGES = {
