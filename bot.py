@@ -25,7 +25,7 @@ the role also gives you access to chat with me as much as you'd like! i can assi
 hii! thank you for subscribing to champion!! these are some of the perks the subscription has:
 
 ・create a custom role
-‏‏‎ ‎‏‏‎ ‎✎... can be set up using `/titan-role edit`
+‏‏‎ ‎‏‏‎ ‎✎... can be set up using `/custom-role edit`
 ・featured on the memberlist
 ・create custom voice channels by joining https://discord.com/channels/679875946597056683/1120219024882675732
 ・stream and video access in voice channels
@@ -39,9 +39,9 @@ hii! thank you for subscribing to titan!! these are some of the perks the subscr
 ・create your own clan
 ‏‏‎ ‎‏‏‎ ‎✎... can be set up using `/clan create`
 ・create a custom role
-‏‏‎ ‎‏‏‎ ‎✎... can be set up using `/titan-role edit`
+‏‏‎ ‎‏‏‎ ‎✎... can be set up using `/custom-role edit`
 ・gift a subcription
-‏‏‎ ‎‏‏‎ ‎✎... gift it to a friend with `/titan-role gift-legend`
+‏‏‎ ‎‏‏‎ ‎✎... gift it to a friend with `/gift legend`
 ・featured on the memberlist
 ・create custom voice channels by joining https://discord.com/channels/679875946597056683/1120219024882675732
 ・stream and video access in voice channels
@@ -63,7 +63,7 @@ the role also gives you access to chat with me as much as you'd like! i can assi
 hii! thank you for subscribing to champion!! these are some of the perks the subscription has:
 
 ・create a custom role
-‏‏‎ ‎‏‏‎ ‎✎... can be set up using `/titan-role edit`
+‏‏‎ ‎‏‏‎ ‎✎... can be set up using `/custom-role edit`
 ・featured on the memberlist
 ・create custom voice channels by joining https://discord.com/channels/828370043867496531/1006294611498643637
 ・soundboard access
@@ -79,9 +79,9 @@ hii! thank you for subscribing to titan!! these are some of the perks the subscr
 ・create your own clan
 ‏‏‎ ‎‏‏‎ ‎✎... can be set up using `/clan create`
 ・custom role
-‏‏‎ ‎‏‏‎ ‎✎... can be set up using `/titan-role edit`
+‏‏‎ ‎‏‏‎ ‎✎... can be set up using `/custom-role edit`
 ・free legend sub gift
-‏‏‎ ‎‏‏‎ ‎✎... gift it to a friend with `/titan-role gift-legend`
+‏‏‎ ‎‏‏‎ ‎✎... gift it to a friend with `/gift legend`
 ・shown on the sidebar
 ・custom voice channels
 ・soundboard access
